@@ -1,0 +1,16 @@
+{
+"companyName": "Berke Kiran",
+"productName": "Void Runner",
+"productVersion": "0.1",
+"dataUrl": "Void Runner Files.data.unityweb",
+"wasmCodeUrl": "Void Runner Files.wasm.code.unityweb",
+"wasmFrameworkUrl": "Void Runner Files.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#0C0B0E",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
