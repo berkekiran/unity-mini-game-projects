@@ -1,0 +1,16 @@
+{
+"companyName": "Berke Kiran",
+"productName": "Puzzle Game",
+"productVersion": "0.1",
+"dataUrl": "Puzzle Game WebGL Build.data.unityweb",
+"wasmCodeUrl": "Puzzle Game WebGL Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Puzzle Game WebGL Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#F6FF80",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
